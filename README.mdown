@@ -5,9 +5,11 @@ Introduction
 ------------
 [Todotxt](http://todotxt.com/) is a command line todo manager originally started by [Gina Trapani](http://ginatrapani.org/). All todos are managed via a structured textfile, todo.txt.
 
+
 Installation
 ------------
 Download the [Zipfile](https://github.com/sideshowcoder/tmTodoTXT/releases/download/v1.0.0/TodoTXT.tmBundle.zip) for the [release](https://github.com/sideshowcoder/tmTodoTXT/releases), unzip and double click to install.
+
 
 Install from Source
 -------------------
@@ -23,16 +25,15 @@ $ mv ~/Desktop/tmTodoTXT ~/Desktop/todotxt.tmbundle
 
 Double click the bundle to install in Textmate
 
-Configuration
--------------
-In case you are not using the default locations for the todotxt you need to set the TM\_TODO\_CONFIG to point the bundle to the right config, and TM\_TODO\_CMD to point the bundle to the todo.sh executable.
-
-![Set todotxt config path](https://s3.amazonaws.com/sideshowcoder/tmtodotxt_env_vars.png)
-
 
 Install to Textastic on iOS Devices
 -------------
 Download the repo in zip, unzip and add .tmbundle extension to the folder, then follow the instructions to install the tmbundle to your device: https://www.textasticapp.com/v7/manual/customization/custom_syntax_themes_templates.html
+
+
+Configuration
+-------------
+In case you are not using the default locations for the todotxt you need to set the TM\_TODO\_CONFIG to point the bundle to the right config, and TM\_TODO\_CMD to point the bundle to the todo.sh executable.
 
 
 License (BSD)
