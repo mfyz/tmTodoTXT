@@ -30,6 +30,11 @@ In case you are not using the default locations for the todotxt you need to set 
 ![Set todotxt config path](https://s3.amazonaws.com/sideshowcoder/tmtodotxt_env_vars.png)
 
 
+Install to Textastic on iOS Devices
+-------------
+Download the repo in zip, unzip and add .tmbundle extension to the folder, then follow the instructions to install the tmbundle to your device: https://www.textasticapp.com/v7/manual/customization/custom_syntax_themes_templates.html
+
+
 License (BSD)
 -------------
 Copyright (c) 2011, Philipp Fehre <philipp.fehre@gmail.com>
